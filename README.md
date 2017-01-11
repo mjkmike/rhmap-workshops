@@ -1,4 +1,25 @@
-# rhmap-workshops
-📓 Try out the Red Hat Mobile Application Platform with these workshops
+# FeedHenry Hello World MBaaS Server
 
-http://dudash.github.io/rhmap-workshops/
+This is a blank 'hello world' FeedHenry MBaaS. Use it as a starting point for building your APIs. 
+
+# Group Hello World API
+
+# hello [/hello]
+
+'Hello world' endpoint.
+
+## hello [POST] 
+
+'Hello world' endpoint.
+
++ Request (application/json)
+    + Body
+            {
+              "hello": "world"
+            }
+
++ Response 200 (application/json)
+    + Body
+            {
+              "msg": "Hello world"
+            }

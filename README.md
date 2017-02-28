@@ -1,6 +1,7 @@
-# Blank Cordova Template 
+# GetWeather Client Application
 ---------
-Author: Erik Jan de Wit   
+Author: Michael Sodomsky
+Based on: Erik Jan de Wit's Blank Cordova Template
 Level: Intermediate   
 Technologies: Javascript, Cordova, RHMAP   
 Summary: A basic Hybrid client side template with RHMAP.   
@@ -43,7 +44,7 @@ The `fh-js-sdk` and other development dependencies are defined in [package.json]
 
 * This generated [main.js](www/main.js) file is checked-in to allow RHMAP studio preview to statically serve dependencies.
 
-* The [init.js](www/js/init.js) file is browserified and acts as a bridge between template script and npm dependencies. 
+* The [init.js](www/js/init.js) file is browserified and acts as a bridge between template script and npm dependencies.
 
 * All the other JavaScript files in the template app will not be browserified, in order for you to be able to experiment live edit in RHMAP Studio preview.
 

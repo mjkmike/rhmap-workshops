@@ -1,18 +1,15 @@
 ---
+
 layout: workshop
-title: Workshop Documentation Index
-subtitle: This is the full list of lab documentation to choose from
-html_title: Workshops Documentation Index
+title: Workshop Labs
+subtitle: This is the full list of labs to choose from
+html_title: Workshops Labs
 ---
 
-# Master List
+## Creating users
+For the workshop you will want a headcount of how many people will be there.  Each person should have their own unique username and the team should be configured so they can only see the content they created.  
 
-<!-- USE THESE AS A START TO ADD CONTENT TO YOUR WORKSHOP
-	WHEN YOU ADD THEM, MAKE SURE TO INCLUDE PREVIOUS LABS BEING
-	BUILT UPON, OR UPDATE THE TEXT TO ADD MISSING SETUP STEPS
+##You will need to run through
+the workshop yourself and name each project and app generically so we can share this to the workshop attendees.  
 
-	PICK AND CHOOSE FROM HERE AND ADD TO YOUR documentation-index-index.md
-	-->
-
-## documentation-index.md
-Create a copy of this or customize to tailor a workshop to your audience
+##Creating the Workshop Team.
